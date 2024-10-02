@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\Escuela\\C\u00F3digos C#\\Servicio Web Simplex\\Simplex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{468DA759-EF50-46DD-A85F-1F08F7B4320E}|Simplex\\Simplex.csproj|c:\\users\\dell\\desktop\\escuela\\c\u00F3digos c#\\servicio web simplex\\simplex\\simplex\\modelos\\parametrossimplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468DA759-EF50-46DD-A85F-1F08F7B4320E}|Simplex\\Simplex.csproj|solutionrelative:simplex\\modelos\\parametrossimplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468DA759-EF50-46DD-A85F-1F08F7B4320E}|Simplex\\Simplex.csproj|c:\\users\\dell\\desktop\\escuela\\c\u00F3digos c#\\servicio web simplex\\simplex\\simplex\\controllers\\simplexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468DA759-EF50-46DD-A85F-1F08F7B4320E}|Simplex\\Simplex.csproj|solutionrelative:simplex\\controllers\\simplexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468DA759-EF50-46DD-A85F-1F08F7B4320E}|Simplex\\Simplex.csproj|c:\\users\\dell\\desktop\\escuela\\c\u00F3digos c#\\servicio web simplex\\simplex\\simplex\\simplex2\\algsimplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468DA759-EF50-46DD-A85F-1F08F7B4320E}|Simplex\\Simplex.csproj|solutionrelative:simplex\\simplex2\\algsimplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParametrosSimplex.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Escuela\\C\u00F3digos C#\\Servicio Web Simplex\\Simplex\\Simplex\\Modelos\\ParametrosSimplex.cs",
+              "RelativeDocumentMoniker": "Simplex\\Modelos\\ParametrosSimplex.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Escuela\\C\u00F3digos C#\\Servicio Web Simplex\\Simplex\\Simplex\\Modelos\\ParametrosSimplex.cs",
+              "RelativeToolTip": "Simplex\\Modelos\\ParametrosSimplex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:48:42.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlgSimplex.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Escuela\\C\u00F3digos C#\\Servicio Web Simplex\\Simplex\\Simplex\\simplex2\\AlgSimplex.cs",
+              "RelativeDocumentMoniker": "Simplex\\simplex2\\AlgSimplex.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Escuela\\C\u00F3digos C#\\Servicio Web Simplex\\Simplex\\Simplex\\simplex2\\AlgSimplex.cs",
+              "RelativeToolTip": "Simplex\\simplex2\\AlgSimplex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:44:10.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimplexController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Escuela\\C\u00F3digos C#\\Servicio Web Simplex\\Simplex\\Simplex\\Controllers\\SimplexController.cs",
+              "RelativeDocumentMoniker": "Simplex\\Controllers\\SimplexController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Escuela\\C\u00F3digos C#\\Servicio Web Simplex\\Simplex\\Simplex\\Controllers\\SimplexController.cs",
+              "RelativeToolTip": "Simplex\\Controllers\\SimplexController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAowEAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:30:18.721Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
